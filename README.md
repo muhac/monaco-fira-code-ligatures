@@ -1,4 +1,4 @@
-# MonacoFira Nerd Font
+# Monaco Fira Code Nerd Font
 
 Monaco Font with Fira Code ligatures and complete Nerd Font patched. Regular, medium, and bold.
 
@@ -14,10 +14,16 @@ Monaco Font with Fira Code ligatures and complete Nerd Font patched. Regular, me
 
 ## How to install
 
-- Clone this repo / download `MonacoFiraNF-*.ttf`
+- Clone this repo / download `MonacoFiraNerd/*.ttf`
 - Install the font on your OS
-- In your editor settings, change your font to `MonacoFira Nerd Font`
+- In your editor settings, change your font to `Monaco Fira Nerd`
 - Enjoy 👀
+
+## Known issues
+
+Since the Fira Code font is wider than Monaco, there may be some ligatures that are oversized:
+
+- `<!--`
 
 ## Related Projects
 
