@@ -21,7 +21,9 @@ Monaco Font with Fira Code ligatures and complete Nerd Font patched. Regular, me
 
 ## Known issues
 
-Since the Fira Code font is wider than Monaco, there may be some ligatures that are oversized:
+Since the Fira Code font is wider than Monaco, there may be some ligatures that are oversized.
+
+I have finetuned the following lingatures: ([Monoco Fira Nerd](https://github.com/muhac/monaco-fira-code-ligatures/tree/main/MonacoFiraNerd) only)
 
 - `<!--`
 
