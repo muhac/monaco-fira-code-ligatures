@@ -4,7 +4,7 @@ Monaco Font with Fira Code ligatures and complete Nerd Font patched. Regular, me
 
 ## Modifications
 
-[Fira Code 6.2](https://github.com/tonsky/FiraCode/releases/tag/6.2) is used as the base font. I modified the width, hight and spacing to align with the Monaco font. Then, I use the [MonacoB](https://github.com/vjpr/monaco-bold/tree/b77db4b6fc2e9df074f8db59cead862d7068e3d7) to replace all ASCII characters (0-127). Finally, I patched the font with [Nerd Fonts 3.0.2](https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.0.2) complete glyphs.
+[Fira Code 6.2](https://github.com/tonsky/FiraCode/releases/tag/6.2) was used as the base font. I modified the width, height, and spacing to align with the Monaco font. Then, I replaced all ASCII characters (0-127) with [MonacoB](https://github.com/vjpr/monaco-bold/tree/b77db4b6fc2e9df074f8db59cead862d7068e3d7). Finally, I patched the font using [Nerd Fonts 3.0.2](https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.0.2) complete glyphs.
 
 ### Font weights
 
@@ -23,7 +23,7 @@ Monaco Font with Fira Code ligatures and complete Nerd Font patched. Regular, me
 
 Since the Fira Code font is wider than Monaco, there may be some ligatures that are oversized.
 
-I have finetuned the following lingatures: ([Monoco Fira Nerd](https://github.com/muhac/monaco-fira-code-ligatures/tree/main/MonacoFiraNerd) only)
+I have finetuned the following ligatures: ([Monaco Fira Nerd](https://github.com/muhac/monaco-fira-code-ligatures/tree/main/MonacoFiraNerd) only)
 
 - `<!--`
 - `<~~`
